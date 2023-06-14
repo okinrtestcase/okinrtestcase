@@ -1,13 +1,13 @@
-# Hello Guys.. I'm Okinr
+# 🤙 Hello Guys.. I'm Okinr
 
-I work as Software Quality Assurance.
+I work as Software Quality Assurance.<br/>
 Focused on Test and Process Automation and Love to share knowledge and learn something new every day.
-
-💻 My Tech Stack
+<br/>
+💻 My Tech Stack <br/>
 Programming Language 🚀
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,selenium" />
   </a>
 </p>
 
