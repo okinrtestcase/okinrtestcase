@@ -5,8 +5,8 @@ Focused on Test and Process Automation and Love to share knowledge and learn som
 
 
 💻 My Tech Stack <br/>
-Programming Language 🚀
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,selenium)](https://skillicons.dev)
+Programming Language 🚀 <br/>
+[![My Skills](https://skillicons.dev/icons?i=js,html,py,selenium,figma,gitlab)](https://skillicons.dev)
 
 
 
