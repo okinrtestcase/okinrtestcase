@@ -10,8 +10,8 @@ Programming Language 🚀 <br/><br/>
 
 
 📑: My Test Automation Projects <br/>
-- [Selenium API Automation]([url](https://github.com/okinrtestcase/REST-API-Automation-Testing)) - An architectural style commonly used in web services development. In REST API automation testing
-- [K6 Performance Testing]([url](https://github.com/okinrtestcase/K6-Performance-Testing)) - It involves measuring and analyzing different performance metrics to assess the system's behavior and effectiveness
+- ([Selenium API Automation](https://github.com/okinrtestcase/REST-API-Automation-Testing)) - An architectural style commonly used in web services development. In REST API automation testing
+- ([K6 Performance Testing](https://github.com/okinrtestcase/K6-Performance-Testing)) - It involves measuring and analyzing different performance metrics to assess the system's behavior and effectiveness
 
 
 <!---
