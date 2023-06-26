@@ -36,7 +36,7 @@ Focused on Test and Process Automation and Love to share knowledge and learn som
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-📑 My Test Automation Projects <br/>
+## 📑 My Test Automation Projects <br/>
 - [Selenium API Automation](https://github.com/okinrtestcase/REST-API-Automation-Testing) - An architectural style commonly used in web services development. In REST API automation testing
 - [K6 Performance Testing](https://github.com/okinrtestcase/K6-Performance-Testing) - It involves measuring and analyzing different performance metrics to assess the system's behavior and effectiveness
 
