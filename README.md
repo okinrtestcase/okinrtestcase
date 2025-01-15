@@ -25,15 +25,14 @@ Focused on Test and Process Automation and Love to share knowledge and learn som
 </p>
 
 ## 🔨Tools
-![Java](https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java)
 ![Javascript](https://img.shields.io/badge/-javascript-181717?style=for-the-badge&logo=javascript)
 ![Selenium Webdriver](https://img.shields.io/badge/-selenium-181717?style=for-the-badge&logo=selenium)
 ![Cypress](https://img.shields.io/badge/-cypress-181717?style=for-the-badge&logo=cypress)
-![Robot Framework](https://img.shields.io/badge/-robotframework-181717?style=for-the-badge&logo=robotframework)
 ![Postman](https://img.shields.io/badge/-postman-181717?style=for-the-badge&logo=postman)
 ![MySQL](https://img.shields.io/badge/-mysql-181717?style=for-the-badge&logo=mysql)
 ![Jira](https://img.shields.io/badge/-jira-181717?style=for-the-badge&logo=jira)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![K6](https://img.shields.io/badge/-K6-181717?style=for-the-badge&logo=k6)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📑 My Test Automation Projects <br/>
