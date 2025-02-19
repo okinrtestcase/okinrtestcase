@@ -49,5 +49,5 @@ Here are some ideas to get you started:
 
 ### 📝Contact me!
 <p>
-    <a href="mailto: okinr.testcase@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
+    <a href="mailto: okinr06@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
 </p>
