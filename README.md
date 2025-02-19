@@ -17,12 +17,16 @@ Here are some ideas to get you started:
 ⚡ Focused on Test and Process Automation and Love to share knowledge and learn something new every day.
 
 ## 📈Stats
+<div align="center">
+
+
 <p align="left">
 <a href="https://github.com/okinrtestcase">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=okinrtestcase&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=okinrtestcase&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+</div>
 
 ## 🔨Tools
 ![Javascript](https://img.shields.io/badge/-javascript-181717?style=for-the-badge&logo=javascript)
