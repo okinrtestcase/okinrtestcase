@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hello Guys.. 👋 , I'm Okinr!
-I work as **Software Quality Assurance**.<br/>
-Focused on Test and Process Automation and Love to share knowledge and learn something new every day.
+🔭 I currently working at a company as **Software Quality Assurance**.<br/>
+⚡ Focused on Test and Process Automation and Love to share knowledge and learn something new every day.
 
 ## 📈Stats
 <p align="left">
