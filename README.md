@@ -28,6 +28,13 @@ Here are some ideas to get you started:
 </p>
 </div>
 
+
+<div align="center">
+  <a href="https://github.com/qajonatasmartins"> 
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=okinrtestcase&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=okinrtestcase&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 ## 🔨Tools
 ![Javascript](https://img.shields.io/badge/-javascript-181717?style=for-the-badge&logo=javascript)
 ![Selenium Webdriver](https://img.shields.io/badge/-selenium-181717?style=for-the-badge&logo=selenium)
