@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ## 🔨Tools
 ![Javascript](https://img.shields.io/badge/-javascript-181717?style=for-the-badge&logo=javascript)
+![Javascript](https://img.shields.io/badge/-python-181717?style=for-the-badge&logo=python)
 ![Selenium Webdriver](https://img.shields.io/badge/-selenium-181717?style=for-the-badge&logo=selenium)
 ![Cypress](https://img.shields.io/badge/-cypress-181717?style=for-the-badge&logo=cypress)
 ![Postman](https://img.shields.io/badge/-postman-181717?style=for-the-badge&logo=postman)
@@ -33,7 +34,6 @@ Here are some ideas to get you started:
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![K6](https://img.shields.io/badge/-K6-181717?style=for-the-badge&logo=k6)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Katalon](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=katalon&logoColor=white)
 
 ## 📑 My Test Automation Projects <br/>
 - [Selenium API Automation](https://github.com/okinrtestcase/REST-API-Automation-Testing) - An architectural style commonly used in web services development. In REST API automation testing
