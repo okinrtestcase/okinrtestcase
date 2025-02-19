@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/qajonatasmartins"> 
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=okinrtestcase&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=okinrtestcase&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=okinrtestcase&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=okinrtestcase&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
 ## 🔨Tools
