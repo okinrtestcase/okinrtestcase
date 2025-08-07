@@ -12,9 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello Guys.. 👋 , I'm Okinr!
-🔭 I currently working at a company as **Software Quality Assurance**.<br/>
-⚡ Focused on Test and Process Automation and Love to share knowledge and learn something new every day.
+# 👋 Hello there! I'm Okinr
+
+🔍 **Software Quality Assurance (QA)** with a strong focus on **Test Automation**, **Performance Testing**, and **Continuous Improvement**.
+
+🚀 Passionate about delivering high-quality software through robust testing strategies and sharing knowledge with the QA and dev community.
+
+---
+
 
 ## 📈Stats
 <div align="center">
