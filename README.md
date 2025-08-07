@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/okinrtestcase"> 
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=okinrtestcase&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=okinrtestcase&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=okinrtestcase&layout=compact&langs_count=7&theme=algolia"/>
   </a>
 </div>
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ## 📑 Test Automation Projects
 
-- [**Selenium API Automation**](https://github.com/okinrtestcase/REST-API-Automation-Testing) – Automates REST API testing using Selenium and JavaScript.
+- [**Selenium API Automation**](https://github.com/okinrtestcase/REST-API-Automation-Testing) – Automates REST API testing using Selenium and Python.
 - [**K6 Performance Testing**](https://github.com/okinrtestcase/K6-Performance-Testing) – Initial version for testing system behavior with basic performance metrics.
 - [**K6 Performance Testing V2**](https://github.com/okinrtestcase/K6-Performance-Testing-V2) – Enhanced and modular version with scenario configuration, environment support, validation, thresholds, and Grafana dashboard integration.
 
