@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 ## 📑 My Test Automation Projects <br/>
 - [Selenium API Automation](https://github.com/okinrtestcase/REST-API-Automation-Testing) - An architectural style commonly used in web services development. In REST API automation testing
 - [K6 Performance Testing](https://github.com/okinrtestcase/K6-Performance-Testing) - It involves measuring and analyzing different performance metrics to assess the system's behavior and effectiveness
+- [K6 Performance Testing-V2](https://github.com/okinrtestcase/K6-Performance-Testing-V2) - Improved and updated version with modular structure, environment-based scenarios, validations, thresholds, and optional dashboard integration.
 
 
 ## 🔗Connect
