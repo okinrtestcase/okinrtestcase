@@ -21,39 +21,55 @@ Here are some ideas to get you started:
 ---
 
 
-## 📈Stats
+## 📊 GitHub Stats
+
 <div align="center">
   <a href="https://github.com/okinrtestcase"> 
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=okinrtestcase&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=okinrtestcase&layout=compact&langs_count=7&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=okinrtestcase&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=okinrtestcase&layout=compact&langs_count=7&theme=algolia"/>
+  </a>
 </div>
 
-## 🔨Tools
-![Javascript](https://img.shields.io/badge/-javascript-181717?style=for-the-badge&logo=javascript)
-![Javascript](https://img.shields.io/badge/-python-181717?style=for-the-badge&logo=python)
-![Selenium Webdriver](https://img.shields.io/badge/-selenium-181717?style=for-the-badge&logo=selenium)
+---
+
+## 🛠️ Tools & Technologies
+
+![JavaScript](https://img.shields.io/badge/-javascript-181717?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/-python-181717?style=for-the-badge&logo=python)
+![Selenium](https://img.shields.io/badge/-selenium-181717?style=for-the-badge&logo=selenium)
 ![Cypress](https://img.shields.io/badge/-cypress-181717?style=for-the-badge&logo=cypress)
 ![Postman](https://img.shields.io/badge/-postman-181717?style=for-the-badge&logo=postman)
-![MySQL](https://img.shields.io/badge/-mysql-181717?style=for-the-badge&logo=mysql)
-![Jira](https://img.shields.io/badge/-jira-181717?style=for-the-badge&logo=jira)
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![K6](https://img.shields.io/badge/-K6-181717?style=for-the-badge&logo=k6)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/-mysql-181717?style=for-the-badge&logo=mysql)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## 📑 My Test Automation Projects <br/>
-- [Selenium API Automation](https://github.com/okinrtestcase/REST-API-Automation-Testing) - An architectural style commonly used in web services development. In REST API automation testing
-- [K6 Performance Testing](https://github.com/okinrtestcase/K6-Performance-Testing) - It involves measuring and analyzing different performance metrics to assess the system's behavior and effectiveness
-- [K6 Performance Testing-V2](https://github.com/okinrtestcase/K6-Performance-Testing-V2) - Improved and updated version with modular structure, environment-based scenarios, validations, thresholds, and optional dashboard integration.
+---
 
+## 📑 Test Automation Projects
 
-## 🔗Connect
+- [**Selenium API Automation**](https://github.com/okinrtestcase/REST-API-Automation-Testing) – Automates REST API testing using Selenium and JavaScript.
+- [**K6 Performance Testing**](https://github.com/okinrtestcase/K6-Performance-Testing) – Initial version for testing system behavior with basic performance metrics.
+- [**K6 Performance Testing V2**](https://github.com/okinrtestcase/K6-Performance-Testing-V2) – Enhanced and modular version with scenario configuration, environment support, validation, thresholds, and Grafana dashboard integration.
+
+---
+
+## 🔗 Connect with Me
+
 <p>
-    <a href="https://www.linkedin.com/in/okinursahbani" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
-     <a href="https://www.instagram.com/nr.sahbani/" target="blank"><img src="https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram" /></a>
+  <a href="https://www.linkedin.com/in/okinursahbani" target="blank">
+    <img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/nr.sahbani/" target="blank">
+    <img src="https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram" />
+  </a>
 </p>
 
+---
 
-### 📝Contact me!
+## 📬 Contact Me
+
 <p>
-    <a href="mailto: okinr06@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:okinr06@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
